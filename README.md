@@ -10,6 +10,12 @@ A clean, simple dashboard to help you understand where users leave your onboardi
 - Lets you upload your own onboarding data (CSV or JSON) from popular analytics tools or spreadsheets.
 - Enables downloading detailed reports for sharing or further analysis.
 - All features are accessible via a sidebar with sections for Dashboard, Funnels, Sessions, Reports, and Settings.
+- 
+## Live Demo
+
+Check out the deployed app here:  
+
+https://onboarding-drop-off-analyzer.onrender.com/
 
 ## How To Use
 
@@ -48,10 +54,6 @@ A clean, simple dashboard to help you understand where users leave your onboardi
 | State Management         | React hooks (useState, useEffect) |
 | Deployment               | Vercel                            |
 
-## Live Demo
-
-Check out the deployed app here:  
-[https://onboarding-drop-off-analyzer-git-01423e-lohith-ratans-projects.vercel.app](https://onboarding-drop-off-analyzer-git-01423e-lohith-ratans-projects.vercel.app)
 
 ## Screenshots
 
